@@ -2,11 +2,11 @@
 
 IResign，Universal signing tool on all platform for Apple application, supporting Win/Linux/MacOS/iOS.
 
-### language
+### Language
 
     Currently supports Simplified Chinese and English, will switching based on the system automaticly
 
-## environment
+## Environment
 
     you must install openssl libzip libplist first.
 
