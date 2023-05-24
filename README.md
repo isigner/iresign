@@ -27,6 +27,11 @@ IResign，Universal signing tool on all platform for Apple application, supporti
 
     just download after signing 
 
+#### UI Version:
+
+     1.decompress the software package with ui named
+     2.change to directory, and double click the execute file
+
 ### Usage
 
       Usage: ./iresign.linux [options]
