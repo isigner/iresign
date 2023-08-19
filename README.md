@@ -109,4 +109,4 @@ IReSign，Universal Signing Tool on all platform for Apple application, Win/Linu
 communicate between users，please add the group of telegram
 [IResignTG](https://t.me/isign_service)
 or the group of QQ
-[IResignQQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)
+[IResignQQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)
