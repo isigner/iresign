@@ -1,41 +1,31 @@
 # iresign
 
-IResign，Universal signing tool on all platform for Apple application, supporting Win/Linux/MacOS/iOS.
+IReSign，Universal Signing Tool on all platform for Apple application, Win/Linux/MacOS/iOS is supported.
 
 ### Language
 
-    Currently supports Simplified Chinese and English, will switching based on the system automaticly
-
-## Environment
-
-    you must install openssl libzip libplist first.
-
-#### macOS:
-
-    brew install openssl libplist libzip
-
-#### ArchLinux:
-
-    pacman -S icu openssl-1.1 libplist libzip qt6-base
+    Simplified Chinese and English are supported,  UI will be switched associating with system.
 
 #### Windows
 
-     1.decompress the software package
-     2.Open the command window, change to directory, and execute the command
+     1.unzip the package
+     2.if you want to use termial version, open the command window, cd to directory, and execute the command
+     3.if you want to use the UI version, click the iresign_ui.exe
 
 #### IOS:
 
-    just download after signing 
+    download from website, I provided one link: [Black Cat Installer](https://usign.biz/ipa/1139gcmSEO)
 
-#### UI Version:
+#### MacOS:
 
-     1.decompress the software package with ui named
-     2.change to directory, and double click the execute file
+     1.unzip the package
+     2.if you want to use the UI version, click the iresign_ui.app
+     3.if you want to user termial version, open the command window, cd to directory, and execute the command
 
-### Usage
+### Usage for termial version
 
-      Usage: ./iresign.linux [options]
-      Universal signing tool on all platform for Apple application, supporting Win/Linux/MacOS/iOS.
+      Usage: ./iresign.[linux|macos|win32] [options]
+      Universal Signing Tool on all platform for Apple application, Win/Linux/MacOS/iOS is supported.
       
       Options:
       -h, --help                  Displays help on commandline options.
@@ -112,9 +102,11 @@ IResign，Universal signing tool on all platform for Apple application, supporti
 
 ### Thanks
 
-     The original logic of the signature comes from zsign. Thank you very much for providing this tool
+     The original logic of the signature comes from zsign. Thanks very much for providing the best tool
 
 ### Communicate
 
-communicate betewwn uses，please add the group of telegram
+communicate between users，please add the group of telegram
 [IResign](https://t.me/isign_service)
+or the group of QQ
+[IResign]([https://t.me/isign_service](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)
