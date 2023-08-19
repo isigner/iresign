@@ -6,33 +6,23 @@
 
     目前支持简体中文和英文，根据系统自动切换
 
-### 环境
-
-    你需要安装 openssl libzip libplist 等
-
-#### macOS:
-
-    brew install openssl libplist libzip
-
-#### ArchLinux:
-
-    pacman -S icu openssl-1.1 libplist libzip qt6-base
-
 #### Windows
 
      1.直接解压缩
-     2.打开命令行, 进入目录, 执行命令即可
+     2.如果你需要命令行模式，打开终端, 进入目录, 执行iresign.exe即可
+     3.如果你需要图形界面模式，直接双击iresign_ui.exe
 
 #### IOS:
 
-    签名后下载即可
-    
-#### 界面版本
+    签名后下载即可, 我提供了测试版链接: [黑猫工具箱](https://6us.fun/ipa/1139gcmSEO)
 
-     1.下载带有ui标识的版本，然后直接解压缩
-     2.进入目录, 双击执行程序即可
+#### MacOS
 
-### 使用
+     1.直接解压缩
+     3.如果你需要图形界面模式，直接双击iresign_ui.macos
+     2.如果你需要命令行模式，打开终端, 进入目录, 执行iresign.macos即可
+
+### 命令行版本使用说明
 
       Usage: ./iresign.linux [options]
       通用全平台苹果应用签名工具，支持Win/Linux/MacOS/iOS
@@ -116,5 +106,7 @@
 
 ### 交流
 
-用户交流，请加入telegram群
-[艾瑞签名工具](https://t.me/isign_service)
+用户交流，请加入Telegram群
+[IResignTG](https://t.me/isign_service)
+或者加入QQ群
+[IResignQQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zSU5coJ5P9sfFzocG48N-BRSfUspUnQR&authKey=m49xy32aWUCi7UBJDR19gDLk1Ar4B0uywMEmPtzTNQm0RkX3JLi6p4odcuZA5Kjb&noverify=0&group_code=181337255)
