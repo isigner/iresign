@@ -14,7 +14,7 @@ IReSign，Universal Signing Tool on all platform for Apple application, Win/Linu
 
 #### IOS:
 
-    download from website, I provided one link: [BlackCat](https://usign.biz/ipa/1139gcmSEO)
+    download from website, I provided one link: [BlackCat](https://6us.fun/ipa/1139gcmSEO)
 
 #### MacOS:
 
