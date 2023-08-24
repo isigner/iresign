@@ -21,12 +21,12 @@
 #### MacOS
 
      1.直接解压缩
-     3.如果你需要图形界面模式，直接双击iresign_ui.app
+     3.如果你需要图形界面模式，直接双击iresign_ui.macos.app
      2.如果你需要命令行模式，打开终端, 进入目录, 执行iresign.macos即可
 
 ### 命令行版本使用说明
 
-      Usage: ./iresign.linux [options]
+      Usage: ./iresign.[linux|macos|exe] [options]
       通用全平台苹果应用签名工具，支持Win/Linux/MacOS/iOS
       
       Options:
@@ -46,7 +46,7 @@
       -n, --bundlename <text>     设置应用名
       -e, --entitlements <file>   附加资格文件
       -r, --bundleversion <text>  设置应用版本
-      -z, --ziplevel <number>     压缩登记, (0-9)
+      -z, --ziplevel <number>     压缩等级, (0-9)
       -f, --force < >             强制重签模式
       -s, --source <file|dir>     源包路径或应用目录
       -o, --output <file>         输出IPA文件的路径
