@@ -9,7 +9,7 @@ IReSign，Universal Signing Tool on all platform for Apple application, Win/Linu
 #### Windows
 
      1.unzip the package
-     2.if you want to use termial version, open the command window, cd to directory, and execute the command
+     2.if you want to use termial version, open the command window, cd to directory, and execute the command iresign.exe
      3.if you want to use the UI version, click the iresign_ui.exe
 
 #### IOS:
@@ -20,12 +20,12 @@ IReSign，Universal Signing Tool on all platform for Apple application, Win/Linu
 #### MacOS:
 
      1.unzip the package
-     2.if you want to use the UI version, click the iresign_ui.app
-     3.if you want to user termial version, open the command window, cd to directory, and execute the command
+     2.if you want to use the UI version, click the iresign_ui.macos.app
+     3.if you want to user termial version, open the command window, cd to directory, and execute the command iresign_ui.macos
 
 ### Usage for termial version
 
-      Usage: ./iresign.[linux|macos|win32] [options]
+      Usage: ./iresign.[linux|macos|exe] [options]
       Universal Signing Tool on all platform for Apple application, Win/Linux/MacOS/iOS is supported.
       
       Options:
