@@ -15,8 +15,6 @@
 #### IOS:
 
     签名后下载即可, 我提供了测试版链接: 
-    
-&nbsp;&nbsp;&nbsp;&nbsp;[黑猫工具箱](https://6us.fun/ipa/1139gcmSEO)
 
 #### MacOS
 
